@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">[Wei Cheng Lin] Temperature Converter</string>
+    <string name="fahrenheit_text">Fahrenheit: </string>
+    <string name="celsius_text">Celsius: </string>
+    <string name="interesting_message_one">I wish it were warmer.</string>
+    <string name="interesting_message_two">I wish it were colder.</string>
+</resources>
